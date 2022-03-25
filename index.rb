@@ -1,4 +1,4 @@
-#!/home/ubuntu/.rbenv/versions/2.7.3/bin/ruby
+#!/home/ubuntu/.rbenv/versions/2.7.5/bin/ruby
 
 APP_HOME = __dir__.freeze
 load "#{APP_HOME}/app.rb"
